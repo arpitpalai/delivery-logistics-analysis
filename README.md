@@ -55,8 +55,8 @@ Python | Pandas | NumPy | PostgreSQL | SQL | Power BI | DAX | Data Cleaning | ED
 
 ## 📊 Dashboard
 
-![Logistics Operations Overview](3.Delivery_Logistics_Analysis/images/page1.png)
+![Logistics Operations Overview](3.Delivery_Logistics_Analysis/image/page1.png)
 
-![Delivery Performance](3.Delivery_Logistics_Analysis/images/page2.png)
+![Delivery Performance](3.Delivery_Logistics_Analysis/image/page2.png)
 
-![Delivery Partner Performance](3.Delivery_Logistics_Analysis/images/page3.png)
+![Delivery Partner Performance](3.Delivery_Logistics_Analysis/image/page3.png)
